@@ -1,18 +1,4 @@
 {
-  "users": [
-    {
-      "id": "1999",
-      "email": "test@gmail.com",
-      "name": "canhvo",
-      "password": "Test123@",
-      "status": "Free Account",
-      "avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4j5EsloB48DnxRWOYQKJxT01dGj6cVFEDPQ&usqp=CAU"
-    }
-  ],
-
-  "customer": [
-
-  ],
   "products": [
     {
       "id": "4",
